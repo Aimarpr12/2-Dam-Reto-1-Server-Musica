@@ -72,7 +72,7 @@ A continuación se muestra un ejemplo de cómo se descarga el proyecto sobre la 
 1.	Clonar el repositorio 
 a.	Para el repositorio de java:
 
-    git clone https://github.com/Ceptorshock/Reto1_Grupo3.git
+    git clone https://github.com/PRSpidy/2-Dam-Reto-1-Server-Musica.git
 
 
 
