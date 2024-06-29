@@ -106,11 +106,9 @@ La documentación de la API se encuentra en la URL generada por Swagger, disponi
 http://localhost:8080/swagger-ui/index.html
 
 # Contact (Contacto)
--	Gorka Gabiña (gorka.gabiname@elorrieta-errekamari.com)
--	Aimar Pelea
--	Milena Cuelar
+- [Aimar Pelea](https://github.com/PRSpidy)
+- [Gorka Gabiña](gorka.gabiname@elorrieta-errekamari.com)
+- [Milena Cuellar](https://github.com/Milena2301)
 
-# License (Licencia)
-Distributed under the MIT License.
 
 
