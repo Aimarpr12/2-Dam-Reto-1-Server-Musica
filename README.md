@@ -19,9 +19,9 @@ La aplicación tiene como objetivo gestionar las canciones favoritas de los clie
 
 # Repositorios Relacionados
 
-●	[Repositorio del Proyecto de Escritorio](https://github.com/PRSpidy/2-Dam-Reto-1-Server-Musica.git)
+●	[Repositorio del Proyecto de Escritorio](https://github.com/Aimarpr12/2-Dam-Reto-1-Server-Musica.git)
 
-●	[Repositorio de la Aplicación Android](https://github.com/PRSpidy/2-Dam-Reto-1-App-Android-Musica.git)
+●	[Repositorio de la Aplicación Android](https://github.com/Aimarpr12/2-Dam-Reto-1-App-Android-Musica.git)
 
 
 # Descripción del proyecto.
@@ -106,7 +106,7 @@ La documentación de la API se encuentra en la URL generada por Swagger, disponi
 http://localhost:8080/swagger-ui/index.html
 
 # Contact (Contacto)
-- [Aimar Pelea](https://github.com/PRSpidy)
+- [Aimar Pelea](https://github.com/Aimarpr12)
 - [Gorka Gabiña](gorka.gabiname@elorrieta-errekamari.com)
 - [Milena Cuellar](https://github.com/Milena2301)
 
